@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1515767292 source:c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\main.cpp
+	<iostream>
+	<Neighborhood.h>
+
+1515765269 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\graph.h
+	<iostream>
+	<fstream>
+	<mets.hh>
+	<stdlib.h>
+	<time.h>
+	<string>
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\mets.hh
+	"metslib_config.hh"
+	<list>
+	<cmath>
+	<deque>
+	<limits>
+	<string>
+	<vector>
+	<cassert>
+	<typeinfo>
+	<iostream>
+	<stdexcept>
+	<algorithm>
+	<unordered_map>
+	<random>
+	<tr1/unordered_map>
+	<tr1/random>
+	"observer.hh"
+	"model.hh"
+	"termination-criteria.hh"
+	"abstract-search.hh"
+	"local-search.hh"
+	"tabu-search.hh"
+	"simulated-annealing.hh"
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\metslib_config.hh
+	"metslib_ah.hh"
+	"metslib/metslib_ah.hh"
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\observer.hh
+	<set>
+	<algorithm>
+
+1515522461 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\model.hh
+	<tr1/random>
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\termination-criteria.hh
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\abstract-search.hh
+	<iostream>
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\local-search.hh
+
+1515522461 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\tabu-search.hh
+	<tr1/unordered_map>
+
+1363268844 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\simulated-annealing.hh
+
+1515776191 source:c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\src\graph.cpp
+	"Graph.h"
+
+1515765514 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\comparator.h
+	<Graph.h>
+
+1515682744 source:c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\src\comparator.cpp
+	"Comparator.h"
+
+1515682744 source:c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\src\vertex.cpp
+	"Comparator.h"
+
+1515764784 c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\include\neighborhood.h
+	<Comparator.h>
+
+1515692436 source:c:\users\serwis agro-motors\desktop\grzegorz\odsniezanie\src\neighborhood.cpp
+	"Neighborhood.h"
+
+1515776191 source:c:\users\grzegorz\desktop\programy\alhe\tabu_sa\src\graph.cpp
+	"Graph.h"
+
+1515765269 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\graph.h
+	<iostream>
+	<fstream>
+	<mets.hh>
+	<stdlib.h>
+	<time.h>
+	<string>
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\mets.hh
+	"metslib_config.hh"
+	<list>
+	<cmath>
+	<deque>
+	<limits>
+	<string>
+	<vector>
+	<cassert>
+	<typeinfo>
+	<iostream>
+	<stdexcept>
+	<algorithm>
+	<unordered_map>
+	<random>
+	<tr1/unordered_map>
+	<tr1/random>
+	"observer.hh"
+	"model.hh"
+	"termination-criteria.hh"
+	"abstract-search.hh"
+	"local-search.hh"
+	"tabu-search.hh"
+	"simulated-annealing.hh"
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\metslib_config.hh
+	"metslib_ah.hh"
+	"metslib/metslib_ah.hh"
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\observer.hh
+	<set>
+	<algorithm>
+
+1515522461 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\model.hh
+	<tr1/random>
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\termination-criteria.hh
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\abstract-search.hh
+	<iostream>
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\local-search.hh
+
+1515522461 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\tabu-search.hh
+	<tr1/unordered_map>
+
+1363268844 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\simulated-annealing.hh
+
+1515682744 source:c:\users\grzegorz\desktop\programy\alhe\tabu_sa\src\vertex.cpp
+	"Comparator.h"
+
+1516294866 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\comparator.h
+	<Graph.h>
+
+1516295580 source:c:\users\grzegorz\desktop\programy\alhe\tabu_sa\main.cpp
+	<iostream>
+	<Neighborhood.h>
+
+1516294866 c:\users\grzegorz\desktop\programy\alhe\tabu_sa\include\neighborhood.h
+	<Comparator.h>
+
